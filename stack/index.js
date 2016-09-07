@@ -13,7 +13,7 @@ function Stacker() {
         return aStack[aStack.length - 1];
     }
 
-    return this;
+    // return this;
 }
 
 module.exports = {
